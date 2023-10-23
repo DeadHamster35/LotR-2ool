@@ -1,0 +1,10 @@
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\bin\Debug\LotR 2ool.exe.config
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\bin\Debug\LotR 2ool.exe
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\bin\Debug\LotR 2ool.pdb
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Debug\LotR 2ool.csproj.AssemblyReference.cache
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Debug\LotR_2ool.Properties.Resources.resources
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Debug\LotR 2ool.csproj.GenerateResource.cache
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Debug\LotR 2ool.csproj.CoreCompileInputs.cache
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Debug\LotR 2ool.exe
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Debug\LotR 2ool.pdb
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Debug\LotR_2ool.Main.resources
