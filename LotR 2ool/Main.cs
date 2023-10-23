@@ -260,5 +260,11 @@ namespace LotR_2ool
         {
             SaveData();
         }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            About ABWindow = new About();
+            ABWindow.Show();
+        }
     }
 }

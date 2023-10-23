@@ -8,3 +8,4 @@ C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Debug\LotR 2ool.csproj.CoreCompileI
 C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Debug\LotR 2ool.exe
 C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Debug\LotR 2ool.pdb
 C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Debug\LotR_2ool.Main.resources
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Debug\LotR_2ool.About.resources

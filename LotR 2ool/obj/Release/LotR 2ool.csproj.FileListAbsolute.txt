@@ -7,3 +7,5 @@ C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Release\LotR 2ool.csproj.GenerateRe
 C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Release\LotR 2ool.csproj.CoreCompileInputs.cache
 C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Release\LotR 2ool.exe
 C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Release\LotR 2ool.pdb
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Release\LotR 2ool.csproj.AssemblyReference.cache
+C:\software\LotR2ool\LotR 2ool\LotR 2ool\obj\Release\LotR_2ool.About.resources
